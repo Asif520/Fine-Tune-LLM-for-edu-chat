@@ -4,4 +4,4 @@
 * Topic:
   * Science, Commerce, Humanities related topics
 
-* Purpose: To generate a student friendly chatbot to help them in studies.
+ ## Purpose: To generate a student friendly chatbot to help them in studies.
